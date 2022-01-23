@@ -1,0 +1,24 @@
+{
+  "name": "danfoss-eco-nodejs",
+  "version": "0.1.0",
+  "description": "A simple NodeJS API for Danfoss Eco",
+  "main": "./lib/danfossEco.js",
+  "scripts": {
+    "test": "TODO"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EgzoT/danfoss-eco-nodejs"
+  },
+  "keywords": [
+    "danfoss",
+    "eco",
+    "smarthome",
+    "api"
+  ],
+  "author": "EgzoT",
+  "license": "MIT",
+  "dependencies": {
+    "@abandonware/noble": "^1.9.2-15"
+  }
+}
