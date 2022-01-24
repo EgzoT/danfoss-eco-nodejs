@@ -9,7 +9,7 @@ A simple NodeJS API for Danfoss Eco.
 * Clone repository
 
 ```sh
-git clone https://github.com/EgzoT/danfoss-eco-nodejs.git
+git clone --recursive https://github.com/EgzoT/danfoss-eco-nodejs.git
 cd danfoss-eco-nodejs
 ```
 
