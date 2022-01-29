@@ -30,4 +30,4 @@ TODO
 ## Thanks to
 
 * [python-danfoss-eco-2](https://github.com/GylleTanken/python-danfoss-eco-2)
-* [Danfoss-BLE](https://github.com/dsltip/Danfoss-BLE).
+* [Danfoss-BLE](https://github.com/dsltip/Danfoss-BLE)
